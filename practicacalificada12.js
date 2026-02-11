@@ -124,3 +124,5 @@ if (edad < 18) {
 
 alert("Tu edad es: " + edad + "\nEtapa de vida: " + etapa);
 
+ */
+
